@@ -1,0 +1,30 @@
+# Tesla QA Bug Report Template
+
+**Project:** Funtional Testing - Tesla Dashboard Simulator  
+**Reported By:** [Ryan Owens]  
+**Date:** [10/14/2025]  
+**Environment:** / macOS
+
+---
+
+### 🐞 Bug Summary
+_Provide a concise summary of the issue._
+
+### 📋 Steps to Reproduce
+1. 
+2. 
+3. 
+
+### 🎯 Expected Result
+_Describe the correct behavior._
+
+### ❌ Actual Result
+_Describe what went wrong._
+
+### 🧩 Attachments
+- Screenshot(s)
+- Console log if applicable
+
+### 🔢 Severity / Priority
+- Severity: (Critical / High / Medium / Low)
+- Priority: (P1 / P2 / P3)

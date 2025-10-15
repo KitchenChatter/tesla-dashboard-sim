@@ -8,7 +8,7 @@
 		"dev": "nodemon src/index.js",
 		"lint": "eslint --fix src",
 		"test": "mocha --exit",
-		"stop": "sh -c \"pids=$(pgrep -f 'node src/index.js' || true); if [ -n \"$pids\" ]; then echo \"Killing $pids\"; kill $pids; fi\""
+		"stop": "sh -c \"pkill -f 'node src/index.js' || true\""
 	},
 	"keywords": [],
 	"author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",

@@ -1,5 +1,19 @@
+### Tesla infotainment QA testing
+
+
 # tesla-dashboard
-A tesla model 3 dashboard simulator, hope you have fun playing with it
+This will simulate  the Tesla Dashboard QA team, where you’ll clone, run, and validate the 
+
+
+**Tesla Dashboard Simulator** repo you shared.
+**Jr. QA Engineer** (Ryan Owens)
+**Sim Developer** (jakusha Ebube)  
+**Project:** Tesla Dashboard Simulator QA Setup  
+**Objective:** Set up the simulator environment, verify initial functionality, and document findings
+
+
+
+A tesla model 3 dashboard simulator, 
 
 features: 
 - international radio.
