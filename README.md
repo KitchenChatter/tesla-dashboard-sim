@@ -1,11 +1,11 @@
-### Tesla infotainment QA testing
+### Tesla infotainment QA testing notes
 
 
-# tesla-dashboard
-This will simulate  the Tesla Dashboard QA team, where you’ll clone, run, and validate the 
+# Day 1 Onboarding Exercise 
+This will simulate the Tesla Dashboard QA team, where you’ll clone, run, and validate Tesla Dashboard Simulator for the Model 3.
 
 
-**Tesla Dashboard Simulator** repo you shared.
+**Tesla Dashboard Simulator** 
 **Jr. QA Engineer** (Ryan Owens)
 **Sim Developer** (jakusha Ebube)  
 **Project:** Tesla Dashboard Simulator QA Setup  
