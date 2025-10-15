@@ -6,8 +6,11 @@ This will simulate the Tesla Dashboard QA team, where you’ll clone, run, and v
 
 
 **Tesla Dashboard Simulator** 
+
 **Jr. QA Engineer** (Ryan Owens)
+
 **Sim Developer** (jakusha Ebube)  
+
 **Project:** Tesla Dashboard Simulator QA Setup  
 **Objective:** Set up the simulator environment, verify initial functionality, and document findings
 
