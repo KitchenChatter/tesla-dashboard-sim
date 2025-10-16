@@ -8,6 +8,6 @@
 ✅ Bug report template prepared  
 
 ## Next Steps
-- Execute test cases TC-001 to TC-004  
+- Execute test cases TC-001 to TC-015 
 - Capture all bug into the `bug_report_template.md`
 - Prepare for Project 2: API Data Sync QA
