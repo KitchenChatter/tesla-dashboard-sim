@@ -9,6 +9,8 @@ This will simulate the Tesla Dashboard QA team, where you’ll clone, run, and v
 
 **Jr. QA Engineer** (Ryan Owens)
 
+**Education** (TripleTen QA bootcamp)
+
 **Sim Developer** (jakusha Ebube)  
 
 **Project:** Tesla Dashboard Simulator QA Setup  
